@@ -1,0 +1,19 @@
+{
+  "name": "portfolio-2022",
+  "version": "1.0.0",
+  "description": "Portfolio",
+  "scripts": {
+    "start": "parcel templates/index.html",
+    "build": "parcel build templates/index.html"
+  },
+  "author": "Juan Orantes",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^8.8.0",
+    "parcel": "^2.3.2"
+  },
+  "engines": {
+    "npm": ">=6.0.0",
+    "node": ">=10.0.0"
+  }
+}
